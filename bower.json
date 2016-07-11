@@ -1,0 +1,27 @@
+{
+  "name": "postcss-gulp-sass",
+  "description": "Testing and experimenting PostCSS with Gulp and SASS",
+  "main": "index.html",
+  "authors": [
+    "matheushf"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "postcss",
+    "gulp",
+    "sass",
+    "js"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.2.0",
+    "jquery": "^3.1.0"
+  }
+}
