@@ -8,7 +8,8 @@ var srcStyles = [
 ];
 var srcJs = [
     '!src/js/vendor/**/*.js',
-    'src/js/**/*.js'
+    'src/js/**/*.js',
+    'src/**/*.js'
 ];
 var srcPaths = srcStyles.concat(srcJs);
 srcPaths.push('src/**/*.html');
