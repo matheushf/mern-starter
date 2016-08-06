@@ -14,18 +14,17 @@
   ],
   "author": "matheushf",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "babel-preset-react": "^6.3.13",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
     "gulp-inject": "^4.1.0",
     "gulp-refresh": "^1.1.0",
-    "wiredep": "^4.0.0"
-  },
-  "dependencies": {
     "jquery": "^3.1.0",
     "mongodb": "^2.2.1",
-    "react": "^15.2.1"
+    "react": "^15.3.0",
+    "wiredep": "^4.0.0"
   }
 }
