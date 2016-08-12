@@ -17,6 +17,7 @@
   "devDependencies": {},
   "dependencies": {
     "babel-preset-react": "^6.3.13",
+    "babelify": "^7.3.0",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
